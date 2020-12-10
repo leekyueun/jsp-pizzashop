@@ -2,7 +2,6 @@
     pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*" %>
 
-<h3>SELECT</h3>
 <table border="1">
 	<tr>
 		<td>지점 코드</td>

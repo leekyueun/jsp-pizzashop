@@ -2,7 +2,6 @@
     pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*" %>
 
-<h3>SELECT</h3>
 <table border="1">
 	<tr>
 		<td>매출전표번호</td>
